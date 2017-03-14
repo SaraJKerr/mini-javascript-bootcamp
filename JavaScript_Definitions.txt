@@ -1,0 +1,23 @@
+JavaScript Mini-Bootcamp
+
+Feynman Writing Prompts
+
+- Variables 
+	A variable can be a number, a string or a boolean value. Variables act as a 
+	container or placeholder for its content. They are called variables because they can
+	change.
+- Strings
+	A string is a character, word or sentence. Strings are enclosed in speech marks.
+- Functions (arguments, return)
+	A function is a bundle of code with a specific purpose. The code is enclosed in curly
+	braces. A function can have arguments, these are variables which are applied to the 
+	code when it runs. The word return instructs the computer to give the result of the 
+	code and to stop.
+- if statements
+	An if statement enables the computer to consider alternative results. The
+	if statement includes an expression where the computer will consider whether the 
+	variable input meets a particular criteria. If it is true it will return one result, 
+	if false a different result.
+- Boolean values (true, false)
+	Boolean values are values which have only two possible outcomes e.g. true or false, 1
+	or 0. 
