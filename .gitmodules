@@ -1,3 +1,6 @@
 [submodule "js-minicamp-homework-1"]
 	path = js-minicamp-homework-1
 	url = https://github.com/SaraJKerr/js-minicamp-homework-1
+[submodule "git@github.com:SaraJKerr/js-minicamp-homework-2.git"]
+	path = git@github.com:SaraJKerr/js-minicamp-homework-2.git
+	url = git@github.com:SaraJKerr/mini-javascript-bootcamp.git
