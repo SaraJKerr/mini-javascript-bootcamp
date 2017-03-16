@@ -21,3 +21,13 @@ Feynman Writing Prompts
 - Boolean values (true, false)
 	Boolean values are values which have only two possible outcomes e.g. true or false, 1
 	or 0. 
+
+
+
+
+
+Objects
+Properties
+Methods
+for in loop
+dot notation vs bracket notation
